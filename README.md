@@ -10,6 +10,7 @@ This makes it easier to stand out in a competitive digital landscape.
 
 ## Skills & Resources
 (Web Development Companies)[https://perfectfirms.com/skills/web-development/companies]
+[Web Development Companies](https://perfectfirms.com/skills/web-development/companies)
 - - Mobile App Development: https://perfectfirms.com/skills/mobile-app-development/companies
   - - Software Development: https://perfectfirms.com/skills/software-development/companies
     - - UI/UX Design: https://perfectfirms.com/skills/ui-ux-design/companies
